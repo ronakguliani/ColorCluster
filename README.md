@@ -4,9 +4,9 @@ This project is designed to identify the dominant colors present in an image and
 
 ## Features
 
-Identifies the most prevalent colors in an image
-Outputs the hex codes for the dominant colors
-Supports JPG, PNG, and other common image formats
+- Identifies the most prevalent colors in an image
+- Outputs the hex codes for the dominant colors
+- Supports JPG, PNG, and other common image formats
 
 ## Installation
 
