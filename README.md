@@ -15,7 +15,8 @@ pip install numpy opencv-python scikit-learn
 
 ## Usage
 
-python colors.py [path_to_image_file] [number_of_colors]
+> python colors.py [path_to_image_file] [number_of_colors]
+
 This will output a list of hex codes representing the dominant colors in the image.
 
 ## Future Work
