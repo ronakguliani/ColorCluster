@@ -11,7 +11,7 @@ Supports JPG, PNG, and other common image formats
 ## Installation
 
 To use this project, first clone the repository to your local machine. Then, install the required dependencies using pip:
-pip install numpy opencv-python scikit-learn
+> pip install numpy opencv-python scikit-learn
 
 ## Usage
 
