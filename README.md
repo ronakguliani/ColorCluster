@@ -1,4 +1,4 @@
-# Color Dominance
+# Color Clusters
 
 This project is designed to identify the dominant colors present in an image and output the hex code for those colors. The algorithm used in this project utilizes K-means clustering to group similar colors together, then identifies the most prevalent colors in each cluster to determine the dominant colors in the image.
 
